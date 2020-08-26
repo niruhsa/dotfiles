@@ -1,0 +1,49 @@
+! special
+*.foreground:   #cccccc
+*.background:   #181818
+*.cursorColor:  #cccccc
+
+! black
+*.color0:       #282828
+*.color8:       #383838
+
+! red
+*.color1:       #ff2b2b
+*.color9:       #ff4f4f
+
+! green
+*.color2:       #ffdc00
+*.color10:      #ecfd4f
+
+! yellow
+*.color3:       #ff4600
+*.color11:      #ff6125
+
+! blue
+*.color4:       #005cff
+*.color12:      #3ca5ff
+
+! magenta
+*.color5:       #69008c
+*.color13:      #c400ff
+
+! cyan
+*.color6:       #008b79
+*.color14:      #00ffdd
+
+! white
+*.color7:       #5b5b5b
+*.color15:      #aaaaaa
+
+!! URxvt Appearance
+URxvt.font: xft:Roboto Mono:style=Regular:size=10
+URxvt.boldFont: xft:Roboto Mono:style=Bold:size=10
+URxvt.italicFont: xft:Roboto Mono:style=Italic:size=10
+URxvt.scrollBar: false
+URxvt.internalBorder: 15
+URxvt*saveLines: 10000
+URxvt*buffered: true
+URxvt*hold: false
+
+
+Xcursor.size: 16
